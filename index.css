@@ -28,7 +28,8 @@ body {
 .left,
 .middle,
 .right {
-  padding: 20px;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Style the left column */
